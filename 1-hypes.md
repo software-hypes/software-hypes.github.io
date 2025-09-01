@@ -49,6 +49,7 @@ It started with the [API Mandate](https://nordicapis.com/the-bezos-api-mandate-a
 - 2012 - Netflix and Amazon pioneer it 
 - 2014: “Death of the monolith!” 
 	- The word monolith starts to be considered as bad as the word waterfall
+	- Martin Fowler writes a [guide](https://martinfowler.com/articles/microservices.html) to Microservices
 - 2016-2018: Everyone migrating everything 
 	- Search on YouTube for "migrating from monolith to microservices"
 	- consulting business flourishes
@@ -56,10 +57,6 @@ It started with the [API Mandate](https://nordicapis.com/the-bezos-api-mandate-a
 	- strawman - you don't need microservices if you have a monolith; you might split it in services
 - 2021+: “Maybe start with a monolith” wisdom
 	- Read: [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/), by DHH (10min read) 
-
-### Case Study 2: Walkthrough: Map-Reduce
-
-[map-reduce](case%20studies/map-reduce.md)
 
 
 # Part 2: Why Hypes Happen
@@ -152,15 +149,18 @@ The opportunity cost of falling for the hype
 - While you spend time and money rebuilding everything with the new technology, the guy that has the server-side rendering rails application is collecting all the money. 
 - Those money wasted on moving townhall records on the blockchain could not be used for something else
 
+The story of Map-Reduce where everybody run to copy Google, and in the meantime, Google had already moved on because they realized it did not work not even for them. 
+
+
 
 # Wrapping Up
 
-To think about: “In every hype there is something useful. Can you detect it? At the same time, falling too strong for it can be fatal for you and your company. Or maybe wasteful. Or maybe just you are too Proud to be folded. 
+To think about: “In every hype there is something useful. Can you detect it? At the same time, falling too strong for it can be fatal for you and your company. Or maybe wasteful. Or maybe just you are too proud to be fooled. 
 
 Next time, we’ll learn how to systematically analyse technologies to see through the hype. 
 
 
-Group assignment setup. For Thursday.
+# Group assignment
 
 - Choose a technology/methodology that’s been hyped (past or present)
 - Briefly describe the context that gave rise to it

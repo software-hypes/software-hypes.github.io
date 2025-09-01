@@ -6,12 +6,12 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 
 ## Examples of Software Engineering Hypes
 
-- 1990s - **OOP** was going to revolutionize software enginering
-- 2005 - **SOA** revolutionizing enterprise architecture
-- 2012 - **NoSQL** killing relational databases
-- 2014 - **Data Science** everywhere! Obama and Will.I.Am talk about Data Science
-- 2016 - **Blockchain** replacing banks and *fiat* currency
-- 2024 - **AI** replacing all developers
+- 1990s - **OOP** was going to revolutionize software engineering
+- 2000s - **SOA** revolutionizing enterprise architecture
+- 2010s 
+	- **NoSQL** killing relational databases
+	- **Blockchain** replacing banks and *fiat* currency
+	- **AI** replacing all developers
 
 Do you have other examples? 
 

@@ -13,7 +13,7 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 - 2016 - **Blockchain** replacing banks and *fiat* currency
 - 2024 - **AI** replacing all developers
 
-Many other hypes. Do you have other examples? 
+Do you have other examples? 
 
 
 ## Learning objectives
@@ -157,16 +157,14 @@ The opportunity cost of falling for the hype
 
 To think about: “In every hype there is something useful. Can you detect it? At the same time, falling too strong for it can be fatal for you and your company. Or maybe wasteful. Or maybe just you are too Proud to be folded. 
 
-
-
 Next time, we’ll learn how to systematically analyse technologies to see through the hype. 
 
 
-Group assignment setup
+Group assignment setup. For Thursday.
 
 - Choose a technology/methodology that’s been hyped (past or present)
-- Research its promises and context for
-- Tuesday’s discussion
+- Briefly describe the context that gave rise to it
+- Document its promises
 - No judgment yet - just understand what was promised and why people got excited
 
 
@@ -174,7 +172,7 @@ Group assignment setup
 
 
 # References
-[1] M. Broy, B. Selic - The Effects of Hype in the Software Domain: Causes, Consequences, and Mitigations, [online](https://www.computer.org/csdl/magazine/so/2025/02/10884672/24j4eFje1IQ) 
-[2] Sebastian Baltes - Effects of hype in software development, [online](https://empirical-software.engineering/blog/hype-in-software-development)
-[3] Jonas Fritzsch; Marvin Wyrich; Justus Bogner; Stefan Wagner - Résumé-Driven Development: A Definition and Empirical Characterization,  [online](https://ieeexplore.ieee.org/document/9402191 )
+1. M. Broy, B. Selic - The Effects of Hype in the Software Domain: Causes, Consequences, and Mitigations, [online](https://www.computer.org/csdl/magazine/so/2025/02/10884672/24j4eFje1IQ) 
+2. Sebastian Baltes - Effects of hype in software development, [online](https://empirical-software.engineering/blog/hype-in-software-development)
+3. Jonas Fritzsch; Marvin Wyrich; Justus Bogner; Stefan Wagner - Résumé-Driven Development: A Definition and Empirical Characterization,  [online](https://ieeexplore.ieee.org/document/9402191 )
 

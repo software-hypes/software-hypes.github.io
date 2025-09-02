@@ -4,6 +4,7 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 - The story shows the importance of technical choices. 
 - And strategy. Where you put your effort really makes a difference if your company stays in business. And this might not be only about technology... 
 
+
 ## Examples of Software Engineering Hypes
 
 - 1990s - **OOP** was going to revolutionize software engineering
@@ -16,9 +17,11 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 Do you have other examples? 
 
 
+The story of Map-Reduce where everybody run to copy Google, and in the meantime, Google had already moved on because they realized it did not work not even for them. 
+
 ## Learning objectives
 
-By the end, you will:
+By the end of today, you will:
 - Recognize the anatomy of technical hypes
 - Understand why hypes emerge and spread
 
@@ -38,7 +41,7 @@ Phases are:
 
 (From: [online](https://www.gartner.com/en/documents/5659723) at gartner.com)
 
-Note that, as my colleague Sebastian Baltes observes, Gartner is themselves responsible for many of the hypes [2]. They are one of the amplifiers. 
+
 
 
 ### Case Study 1: Walkthrough: Microservices
@@ -61,7 +64,9 @@ It started with the [API Mandate](https://nordicapis.com/the-bezos-api-mandate-a
 
 # Part 2: Why Hypes Happen
 
-Reasons are often multifaceted but I think a combination of the following factors: 
+Note that, as my colleague Sebastian Baltes observes, Gartner is themselves responsible for many of the hypes [2]. They are one of the causes. But there are many others. 
+
+Reasons are:
 
 - **Real technical problems needing solutions**
 	- software engineering is complex
@@ -132,7 +137,7 @@ Recent hypes in various stages:
 - GraphQL -- was also overhyped but for a shorter time
 - Blockchain / Web 3 - the slowest distributed global network is useless for any other use case but for dark web sales and people who have interests in going around the 
 
-Quick poll - “Which of these do you think is most overhyped right now?”
+Quick poll: “Which of these do you think is most overhyped right now?”
 
 
 # Part 5: Are Hypes Good? 
@@ -141,7 +146,8 @@ Innovation is good.
 
 The hype by definition is not. Exagerating the value of something is at the least, unethical; and much more likely, dangerous because it wastes resources. And misleads people. 
 
-How do hypes waste resources? Cf. The Effects of Hype in the Software Domain: Causes, Consequences, and Mitigations [1], we have: 
+## How do hypes waste resources? 
+Cf. The Effects of Hype in the Software Domain: Causes, Consequences, and Mitigations [1], we have: 
 - academic efforts are squandered
 - people who are not that good technically fall for the sales presentation
 
@@ -149,7 +155,7 @@ The opportunity cost of falling for the hype
 - While you spend time and money rebuilding everything with the new technology, the guy that has the server-side rendering rails application is collecting all the money. 
 - Those money wasted on moving townhall records on the blockchain could not be used for something else
 
-The story of Map-Reduce where everybody run to copy Google, and in the meantime, Google had already moved on because they realized it did not work not even for them. 
+
 
 
 
@@ -157,7 +163,7 @@ The story of Map-Reduce where everybody run to copy Google, and in the meantime,
 
 To think about: “In every hype there is something useful. Can you detect it? At the same time, falling too strong for it can be fatal for you and your company. Or maybe wasteful. Or maybe just you are too proud to be fooled. 
 
-Next time, we’ll learn how to systematically analyse technologies to see through the hype. 
+Next time, we’ll learn how to systematically analyze technologies to see through the hype. 
 
 
 # Group assignment

@@ -59,8 +59,7 @@ It started with the [API Mandate](https://nordicapis.com/the-bezos-api-mandate-a
 	- consulting business flourishes
 - 2019-2020: “Distributed monolith” problems emerge - while at the same time, people are still giving talks about how to migrate from monoliths to microservices. 
 	- strawman - you don't need microservices if you have a monolith; you might split it in services
-- 2021+: “Maybe start with a monolith” wisdom
-	- Read: [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/), by DHH (10min read) 
+- 2021+: “Maybe start with a monolith” wisdom (e.g.,  [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/), by DHH)
 
 
 # Part 2: Why Hypes Happen

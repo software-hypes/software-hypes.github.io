@@ -7,10 +7,10 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 
 ## Examples of Software Engineering Hypes
 
-- 1990s - **OOP** was going to revolutionize software engineering
+- 1990s - [**OOP**](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)  was going to revolutionize software engineering
 - 2000s - **SOA** revolutionizing enterprise architecture
 - 2010s 
-	- **NoSQL** killing relational databases
+	- **[NoSQL](https://www.youtube.com/watch?v=b2F-DItXtZs&t=33s&ab_channel=gar1t)** killing relational databases
 	- **Blockchain** replacing banks and *fiat* currency
 	- **AI** replacing all developers
 
@@ -173,7 +173,13 @@ Next time, we’ll learn how to systematically analyze technologies to see throu
 - Document its promises
 - No judgment yet - just understand what was promised and why people got excited
 
+# Prepare for the next time
 
+- **Read** [The architecture of StackOverflow](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/) **or listen** to the podcast of Scott Hanselman [Engineering Stack Overflow with Roberta Arcoverde](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) (30min listen) 
+	- How does StackOverflow avoid the hypes?
+2. b: [Lichess.org OSS Success Story](http://lichess.org OSS Success Story) (especially focus on minutes 15-20) 
+	- How does Lichess avoid hypes? 
+3. **Read** DHH's: [We have left the Cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb) and [We stand to save 7m over five years for cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa), or **listen** to the [Podcast discussion](https://37signals.com/podcast/leaving-the-cloud/) with DHH. 
 
 
 

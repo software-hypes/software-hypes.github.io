@@ -1,4 +1,4 @@
-[page source](https://github.com/software-hypes/software-hypes.github.io)
+[on gh](https://github.com/software-hypes/software-hypes.github.io/blob/main/1-hypes.md)
 # Introduction
 
 The story with Elon Musk and Paypal from *Founders at Work*.

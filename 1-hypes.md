@@ -178,7 +178,7 @@ Next time, we’ll learn how to systematically analyze technologies to see throu
 
 1. **Read** [Learning from the OO Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/) (5min). What are the factors that Lemire thinks contribute to hypes? How do they compare to the ones that we discussed in class?
 2. **Listen** to the podcast of Scott Hanselman [Engineering Stack Overflow with Roberta Arcoverde](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)(30min) and **read** [The architecture of StackOverflow](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/). How does StackOverflow avoid hypes?
-3. **Watch** [Thibault Duplesis talk about the architecture of LiChess](https://www.infoq.com/fr/presentations/lichessorg-open-source-success-story/) (40min). 
+3. **Watch** [Thibault Duplesis talk about the architecture of Lichess](https://www.infoq.com/fr/presentations/lichessorg-open-source-success-story/) (40min). Does the Lichess team *treat their machines like cattle* or like pets?
 
 
 

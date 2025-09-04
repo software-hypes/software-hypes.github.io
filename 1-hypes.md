@@ -175,9 +175,9 @@ Next time, we’ll learn how to systematically analyze technologies to see throu
 
 # Prepare for the next time
 
-0. **Read** [Learning from the OO Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/). What are the factors that Lemire thinks contribute to hypes? How do they compare to the ones that we discussed in class?
-1. **Read** [The architecture of StackOverflow](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/) **or listen** to the podcast of Scott Hanselman [Engineering Stack Overflow with Roberta Arcoverde](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) (30min listen). How does StackOverflow avoid the hypes?
-2. **Read** DHH's: [We have left the Cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb) and [We stand to save 7m over five years for cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa), or **listen** to the [Podcast discussion](https://37signals.com/podcast/leaving-the-cloud/) with DHH. 
+1. **Read** [Learning from the OO Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/). What are the factors that Lemire thinks contribute to hypes? How do they compare to the ones that we discussed in class?
+2. **Listen** to the podcast of Scott Hanselman [Engineering Stack Overflow with Roberta Arcoverde](https://www.hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde)(30min listen) and **read** [The architecture of StackOverflow](https://www.linkedin.com/pulse/decoding-stack-overflows-on-premises-monolith-dive-zia-tahir/). How does StackOverflow avoid hypes?
+
 
 
 

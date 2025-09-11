@@ -54,7 +54,7 @@ We have read the "*[No Silver Bullet: Essence and Accident in Software Engineeri
 The post below is from LinkedIn. Is it [Hyped or Not?](https://www.linkedin.com/posts/dr-trupti-rane-ph-d-75a07621_tldr-ai-is-moving-from-siloed-models-to-activity-7368649597440667650--gw-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACzBgQB6j6bEmcNzE0sFF6savCpf28EVIQ) 
 What gives it away as a hype? 
 
-<img src="assets/mcp-to-http.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
+<img src="assets/mcp-to-http.png" alt="Alt text" style="max-width: 600px; width: 100%; height: auto;">
 
 
 
@@ -140,13 +140,11 @@ Where has this been proven? (demand evidence)
 
 ### Empirical Evidence
 
-<img src="assets/maths-is-simple.png" alt="Alt text" style="max-width: 300px; width: 100%; height: auto;">
+<img src="assets/maths-is-simple.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto;">
 
 There is a reason why empirical evidence is hard to get. 
 
 Discussion in class about the challenge of evaluating the claim: **Statically typed programming languages are better than dynamically typed ones.**
-
-
 
 
 ## Think About Incentives

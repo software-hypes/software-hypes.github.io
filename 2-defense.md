@@ -128,10 +128,10 @@ Where has this been proven? (demand evidence)
 	- All empirical work has threats to validity (e.g. the excitement effect on the team)
 
 **The evidence hierarchy**
-	1.	Peer-reviewed research (highest quality, but often limited scope)
-	2.	Independent benchmarks (good, but watch for methodology)
-	3.	Industry case studies (useful, but selection bias)
-	4.	Vendor studies and online discussion forums (lowest trust, but sometimes only source)
+1. Peer-reviewed research (highest quality, but often limited scope)
+2. Independent benchmarks (good, but watch for methodology)
+3. Industry case studies (useful, but selection bias)
+4. Vendor studies and online discussion forums (lowest trust, but sometimes only source)
 
 
 

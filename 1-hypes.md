@@ -188,3 +188,8 @@ Next time, we’ll learn how to systematically analyze technologies to see throu
 2. Sebastian Baltes - Effects of hype in software development, [online](https://empirical-software.engineering/blog/hype-in-software-development)
 3. Jonas Fritzsch; Marvin Wyrich; Justus Bogner; Stefan Wagner - Résumé-Driven Development: A Definition and Empirical Characterization,  [online](https://ieeexplore.ieee.org/document/9402191 )
 
+
+
+# Todo
+- add the observation of B. about the very real reason for which a company might want to jump on the latest bandwagon - if it is the latest technology, there is a good chance that it will be supported for a longer time 
+- Similarly to the previous point, it is easier to find people who know the hyped technology, exactly because it is hyped

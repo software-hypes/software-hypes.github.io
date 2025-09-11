@@ -134,12 +134,12 @@ Where has this been proven? (demand evidence)
 **Build your own evidence**
 
 Gradually try out a technology <- this is empirical work!
-- Measurement 
-	- defining what you want to improve, how are you going to evaluate it
-	- 
-- Qualitative analysis can also be fine - interviews with the team
 - Define success criteria upfront
-- All empirical work has threats to validity (e.g. the excitement effect on the team)
+- Measurement 
+	- Think about how are you going to measure the success
+	- This has to be done before starting, paralleling *pre-registration* studies in science
+	- Qualitative analysis can also be fine - interviews with the team
+- All empirical work has threats to validity, including your own (e.g. the excitement effect on the team)
 
 See the story for next time with the Elm being introduced in a few teams in a React company.
 

@@ -48,10 +48,15 @@ We have read the "*[No Silver Bullet: Essence and Accident in Software Engineeri
 
 # The Hype Playbook - Know Your Enemy
 
+
+### MCP is like HTTP
+
 The post below is from LinkedIn. Is it [Hyped or Not?](https://www.linkedin.com/posts/dr-trupti-rane-ph-d-75a07621_tldr-ai-is-moving-from-siloed-models-to-activity-7368649597440667650--gw-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACzBgQB6j6bEmcNzE0sFF6savCpf28EVIQ) 
 What gives it away as a hype? 
 
 ![](assets/mcp-to-http.png)
+
+### MongoDB throws away the SQL baggage
 
 [Hyped or Not? MongoDB](https://www.youtube.com/watch?v=0X43QfCfyk0&ab_channel=MongoDB)
 
@@ -59,6 +64,8 @@ What gives it away as a hype?
 - *"a traditional way that worked well in the past"* -- we somehow associate something that's new with something that's better... this is implied here. but we don't fall for that: 
 	- *we know all the baggage that comes with SQL* - yes... and that's exactly the point of the Spolsky article [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) article on - **wanting to throw away the old system because it's ugly and start with a new one**
 	- G.K. Chesterton and his concept of "Chesterton's Fence" -- Don't take a fence down, until you know the reason it was put up. 
+
+### MCP combines Microservices with AI ! 
 
 [Hyped or Not? MCP combines Microservices with AI!](https://www.youtube.com/watch?v=f3tWgpIZemg)
 - what's her incentive? (probably a book sale)

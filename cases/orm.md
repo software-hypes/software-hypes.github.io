@@ -1,6 +1,6 @@
 # Object-Relational Mappers
 
-## The Promise
+## The Promises
 
 ORMs promised to **let developers "just think in objects" without worrying about SQL details**. 
 

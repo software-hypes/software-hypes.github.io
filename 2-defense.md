@@ -1,4 +1,4 @@
-
+# DASH: Defense Against the (dark) Software Hypes
 
 ![](assets/dadha-book-cover.png)
 

@@ -14,7 +14,6 @@ In early 2024, Air Canada had to deal with a situation where their AI chatbot **
 
 When the customer tried to get the promised refund, Air Canada **initially refused and argued that they weren't responsible for what their chatbot said**. However, a Canadian tribunal ruled that Air Canada was indeed responsible for the information provided by their chatbot, treating it as an official representative of the company.
 
-
 Air Canada fell for the hype of Chatbots being able to replace real customer service. And they are not the only ones. How can you, when you will be CTOs in your own right be able to avoid 
 
 This is not the worst case. The worst case are those companies who are firing their people thinking that they can replace them with chatbots and artificial programmers. 
@@ -92,8 +91,6 @@ What gives it away as a hype?
 
 
 
-
-
 # Framework for defense against hypes
 
 ## Understand the Technology
@@ -103,13 +100,13 @@ Goal: know the technology well enough to see through the sales pitch.
 ### Questions you can ask
 - How does this actually work? (understand the mechanism)
 - What exactly is being claimed? (force specificity)
-- **When does this apply?** (context boundaries)
+- **When does this apply and when does it not apply?** (context boundaries).
+	- See: [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). At the very high abstraction level, everything is fine. The devil hides in the details. You must be quite good to understand them from the hypers presentaition.
 - What are the **trade-offs** being glossed over? (e.g. blockchain and scalability, ORMs and performance)
 - What's the maturity level? (prototype, production-ready)
 - Is this genuinely new or a repackaging of existing ideas? ( If you've been around sufficiently, this might be the second coming of an old idea.)
 - What’s the **learning curve and complexity**?
 
-[The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). At the very high abstraction level, everything is fine. The devil hides in the details. You must be quite good to understand them from the hypers presentaition.
 
 
 ## **Be Problem Driven** 
@@ -165,8 +162,7 @@ Discussion in class: take the following statement: **Statically typed programmin
 
 # Closing
 
-Next week we’ll see that the answer to almost every technology question is ‘it depends’.
-
+Next week we’ll see that the answer to almost every technology question is ‘*it depends’*.
 
 
 # Project Work

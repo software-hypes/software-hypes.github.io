@@ -123,6 +123,8 @@ Goal: know the technology well enough to see through the sales pitch.
 
 Where has this been proven? (demand evidence)
 
+
+
 **Look for evidence** 
 - Gradually try out a technology <- this is empirical work!
 	- Measurement - defining what you want to improve, how are you going to evaluate it
@@ -152,7 +154,7 @@ Discussion in class about the challenge of evaluating the claim: **Statically ty
 ### Questions to consider
 - Who is making the claim and why? (follow the money)
 - Who benefits from adoption? 
-- Does the person who sells you the tech benefit? Or maybe they sell you the presentation? The shovel salesmen that make more money than the miners
+- Does the person who sells you the tech benefit? Or maybe they sell you the presentation? (i.e., the shovel salesmen that make more money than the miners)
 - What new dependencies are created?
 - What costs are minimized in the pitch
 

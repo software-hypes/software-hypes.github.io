@@ -150,9 +150,8 @@ Discussion in class about the challenge of evaluating the claim: **Statically ty
 
 # Closing
 
-Key principle: “Extraordinary claims require extraordinary evidence”
+Next week we’ll see that the answer to almost every technology question is ‘it depends’.
 
-Next week we’ll see that the answer to almost every technology question is ‘it depends’ - and learn why that’s actually the most useful answer of all.
 
 
 # Project Work

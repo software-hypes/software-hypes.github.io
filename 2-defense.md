@@ -90,7 +90,6 @@ What gives it away as a hype?
 
 
 
-
 # Framework for defense against hypes
 
 ## Understand the Technology

@@ -1,5 +1,8 @@
 # DASH: Defense Against the (dark) Software Hypes
 
+```markdown
+<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
+```
 ![](assets/dadha-book-cover.png)
 
 # The Air Canada Chatbot

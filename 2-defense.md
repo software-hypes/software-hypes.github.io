@@ -63,8 +63,7 @@ What gives it away as a hype?
 
 [Hyped or Not? MongoDB](https://www.youtube.com/watch?v=0X43QfCfyk0&ab_channel=MongoDB)
 
-### Notes
-- *"a traditional way that worked well in the past"* -- we somehow associate something that's new with something that's better... this is implied here. but we don't fall for that: 
+- *"A traditional way that worked well in the past..."* -- appealing to the novelty effect -- we somehow associate something that's new with something that's better... this is implied here. But we don't fall for that: 
 	- *we know all the baggage that comes with SQL* - yes... and that's exactly the point of the Spolsky article [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) article on - **wanting to throw away the old system because it's ugly and start with a new one**
 	- G.K. Chesterton and his concept of "Chesterton's Fence" -- Don't take a fence down, until you know the reason it was put up. 
 

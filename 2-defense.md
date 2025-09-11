@@ -54,7 +54,10 @@ We have read the "*[No Silver Bullet: Essence and Accident in Software Engineeri
 The post below is from LinkedIn. Is it [Hyped or Not?](https://www.linkedin.com/posts/dr-trupti-rane-ph-d-75a07621_tldr-ai-is-moving-from-siloed-models-to-activity-7368649597440667650--gw-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACzBgQB6j6bEmcNzE0sFF6savCpf28EVIQ) 
 What gives it away as a hype? 
 
-![](assets/mcp-to-http.png)
+<img src="assets/mcp-to-http.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
+
+
+
 
 ### MongoDB throws away the SQL baggage
 
@@ -68,7 +71,7 @@ What gives it away as a hype?
 ### MCP combines Microservices with AI ! 
 
 [Hyped or Not? MCP combines Microservices with AI!](https://www.youtube.com/watch?v=f3tWgpIZemg)
-- what's her incentive? (probably a book sale)
+- What's her incentive? (probably a book sale)
 
 
 ## Common hype tactics

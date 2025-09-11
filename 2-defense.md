@@ -1,6 +1,6 @@
 <small><a href="https://github.com/software-hypes/software-hypes.github.io/blob/main/2-defense.md">(source on GH)</a></small>
 
-<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;display: block;">
+<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 600px; width: 100%; height: auto; margin: 0 auto;display: block;">
 
 # Defense Against Software Hype Arts
 

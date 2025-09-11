@@ -1,8 +1,9 @@
 
 <img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;display: block;">
 
+# Defense Against Software Hype Arts
 
-# Case Study: The Air Canada Chatbot
+## Case Study: The Air Canada Chatbot
 
 ![](assets/air-canada-chatbot.png)
 
@@ -20,7 +21,7 @@ This is not the worst case. The worst case are those companies who are firing th
 - During last meeting, we did have some fun trying to see through the hypes in real time while they were being presented. And I think you've done a very good job.
 - And last lecture we saw that in every hype, there often is a useful bit. 
 
-# Plan for today
+## Plan for today
 
 - Discuss tools that help disentangle the useful from the noise in the middle of a hype
 
@@ -33,7 +34,7 @@ Languages are almost always hyped based on their expressivity correctness, but t
 
 ![](assets/elm-google-trends.png)
 
-How do we know not to fall for the Next Elm hype? 
+How do we know not to fall for the Next programming language hype? 
 
 
 We have read the "*[No Silver Bullet: Essence and Accident in Software Engineering](https://www.cs.unc.edu/techreports/86-020.pdf)*" by Fred Brooks. We know to distinguish between:

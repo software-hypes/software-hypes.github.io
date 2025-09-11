@@ -18,12 +18,15 @@ Air Canada fell for the hype of Chatbots being able to replace real customer ser
 
 This is not the worst case. The worst case are those companies who are firing their people thinking that they can replace them with chatbots and artificial programmers. 
 
-- During last meeting, we did have some fun trying to see through the hypes in real time while they were being presented. And I think you've done a very good job.
-- And last lecture we saw that in every hype, there often is a useful bit. 
+
 
 ## Plan for today
 
-- Discuss tools that help disentangle the useful from the noise in the middle of a hype
+During last meeting, we did have some fun trying to see through the hypes in real time while they were being presented. And I think you've done a very good job. And last lecture we saw that in every hype, there often is a useful bit. Today we will: 
+
+- Discuss how to disentangle the useful from the noise in the middle of a hype
+- See patterns that occur in hyped tech presentations
+- Discuss a framework that can help us prevent of falling into the hype 
 
 
 # The Elm Hype - How could you have avoided it? 

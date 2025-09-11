@@ -137,9 +137,12 @@ Where has this been proven? (demand evidence)
 
 ### Empirical Evidence
 
+<img src="assets/maths-is-simple.png" alt="Alt text" style="max-width: 300px; width: 100%; height: auto;">
+
 There is a reason why empirical evidence is hard to get. 
 
 Discussion in class about the challenge of evaluating the claim: **Statically typed programming languages are better than dynamically typed ones.**
+
 
 
 

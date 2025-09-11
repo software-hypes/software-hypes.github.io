@@ -1,3 +1,4 @@
+[page source](https://github.com/software-hypes/software-hypes.github.io/blob/main/2-defense.md)
 
 <img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;display: block;">
 
@@ -29,7 +30,7 @@ During last meeting, we did have some fun trying to see through the hypes in rea
 - Discuss a framework that can help us prevent of falling into the hype 
 
 
-# The Elm Hype - How could you have avoided it? 
+# The Elm Hype - Could you have avoided it? 
 
 In my role here as professor I very often encounter hypes when you and your students come to talk to me about projects. One of these hypes was Elm: I remember one of your colleagues telling me that was the best language for frontend. Look at the image below - it highlights how hypes happen. I can tell you that recently there was no more student who talked to me about Elm.
 
@@ -43,9 +44,6 @@ How do we know not to fall for the Next programming language hype?
 We have read the "*[No Silver Bullet: Essence and Accident in Software Engineering](https://www.cs.unc.edu/techreports/86-020.pdf)*" by Fred Brooks. We know to distinguish between:
 - **Essential complexity** - the inherent, unavoidable difficulty of the software problem itself and the modeling of the problem domain and the solution domain
 - **Accidental complexity** - difficulties that arise from our tools, languages, and implementation approaches
-
-
-
 
 
 
@@ -85,7 +83,6 @@ What gives it away as a hype?
 - Broken analogies (prompting making code obsolete just as high level languages made machine code obsolete )
 
 
-
 ## Red flag checklist
 - No trade-offs mentioned
 - No failure cases discussed
@@ -112,7 +109,7 @@ Goal: know the technology well enough to see through the sales pitch.
 - Is this genuinely new or a repackaging of existing ideas? ( If you've been around sufficiently, this might be the second coming of an old idea.)
 - What’s the **learning curve and complexity**?
 
-[The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). At the very high abstraction level, everything is fine. The devil hides in the details. You must understand them.
+[The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). At the very high abstraction level, everything is fine. The devil hides in the details. You must be quite good to understand them from the hypers presentaition.
 
 
 ## **Be Problem Driven** 

@@ -133,6 +133,7 @@ Where has this been proven? (demand evidence)
 
 There is a reason why empirical evidence is hard to get. 
 
+Discussion in class about the challenge of evaluating the claim: **Statically typed programming languages are better than dynamically typed ones.**
 
 
 

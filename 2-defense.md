@@ -131,13 +131,17 @@ Where has this been proven? (demand evidence)
 3. Industry case studies (useful, but selection bias)
 4. Vendor studies and online discussion forums (lowest trust, but sometimes only source)
 
-**Build your own evidence**: Gradually try out a technology <- this is empirical work!
-- Measurement - defining what you want to improve, how are you going to evaluate it
+**Build your own evidence**
+
+Gradually try out a technology <- this is empirical work!
+- Measurement 
+	- defining what you want to improve, how are you going to evaluate it
+	- 
 - Qualitative analysis can also be fine - interviews with the team
 - Define success criteria upfront
 - All empirical work has threats to validity (e.g. the excitement effect on the team)
 
-See the story for n
+See the story for next time with the Elm being introduced in a few teams in a React company.
 
 
 

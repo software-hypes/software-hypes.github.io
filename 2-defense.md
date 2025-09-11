@@ -1,9 +1,9 @@
 # Defense Against Software Hype Arts
 
-<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
+<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto;">
 
 
-# The Air Canada Chatbot
+# Case Study: The Air Canada Chatbot
 
 ![](assets/air-canada-chatbot.png)
 
@@ -142,7 +142,6 @@ Gradually try out a technology <- this is empirical work!
 - All empirical work has threats to validity, including your own (e.g. the excitement effect on the team)
 
 See the story for next time with the Elm being introduced in a few teams in a React company.
-
 
 
 ### Empirical Evidence

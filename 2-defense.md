@@ -146,15 +146,6 @@ There is a reason why empirical evidence is hard to get.
 - What costs are minimized in the pitch
 
 
- # Case Study Workshop
-
-Live analysis: Take a current hype (chosen by class vote) and apply the frameworks in real-time:
-	•	Map the claims to the hype playbook
-	•	Hunt for credible evidence
-	•	Identify who benefits
-	•	Assess the actual problem being solved
-
-
 
 # Closing
 

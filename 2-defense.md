@@ -149,7 +149,7 @@ See the story for next time with the Elm being introduced in a few teams in a Re
 
 There is a reason why empirical evidence is hard to get. 
 
-Discussion in class about the challenge of evaluating the claim: **Statically typed programming languages are better than dynamically typed ones.**
+Discussion in class: take the following statement: **Statically typed programming languages are better than dynamically typed ones because they prevent more bugs.** How would you organize an empirical study to evaluate it? 
 
 
 ## Think About Incentives

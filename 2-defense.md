@@ -1,4 +1,4 @@
-# Defense Against the Software Hype Arts
+# Defense Against Software Hype Arts
 
 
 <img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
@@ -66,19 +66,19 @@ What gives it away as a hype?
 
 ## Common hype tactics
 - Cherry-picked metrics (“10x faster!” - at what? under which conditions?)
-•	Survivorship bias (only success stories presented)
-•	False dichotomies (“Old way vs. New way” - ignoring hybrid approaches)
-•	Moving goalposts (when criticized, “that’s not what we meant”)
-•	Buzzword bingo (loading language with impressive but vague terms)
-•	Broken analogies (prompting making code obsolete just as high level languages made machine code obsolete )
+- Survivorship bias (only success stories presented)
+- False dichotomies (“Old way vs. New way” - ignoring hybrid approaches)
+- Moving goalposts (when criticized, “that’s not what we meant”)
+- Buzzword bingo (loading language with impressive but vague terms)
+- Broken analogies (prompting making code obsolete just as high level languages made machine code obsolete )
 
 
 
 ## Red flag checklist
-•	No trade-offs mentioned
-•	No failure cases discussed
-•	“Everyone is doing it”
-•	Exponential growth
+- No trade-offs mentioned
+- No failure cases discussed
+- “Everyone is doing it”
+- Exponential growth
 
 
 

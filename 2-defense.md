@@ -65,8 +65,7 @@ What gives it away as a hype?
 
 
 ## Common hype tactics
-
-•	Cherry-picked metrics (“10x faster!” - at what? under which conditions?)
+- Cherry-picked metrics (“10x faster!” - at what? under which conditions?)
 •	Survivorship bias (only success stories presented)
 •	False dichotomies (“Old way vs. New way” - ignoring hybrid approaches)
 •	Moving goalposts (when criticized, “that’s not what we meant”)

@@ -1,6 +1,6 @@
 # Defense Against Software Hype Arts
 
-<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto;">
+<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;display: block;">
 
 
 # Case Study: The Air Canada Chatbot
@@ -65,7 +65,7 @@ What gives it away as a hype?
 
 - *"A traditional way that worked well in the past..."* -- appealing to the novelty effect -- we somehow associate something that's new with something that's better... *We know all the baggage that comes with SQL*. But we don't fall for that because we are aware of: 
 	- The Spolsky article [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) article on - **wanting to throw away the old system because it's ugly and start with a new one** is a very bad idea.
-	- G.K. Chesterton and his concept of "Chesterton's Fence" -- *"Don't take a fence down, until you know the reason it was put up"* 
+	- G.K. Chesterton and his concept of "Chesterton's Fence" -- *"Don't take a fence down, until you know the reason it was put up"* in the first place.
 
 ### MCP combines Microservices with AI ! 
 

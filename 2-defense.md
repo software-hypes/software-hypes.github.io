@@ -1,6 +1,5 @@
 # Defense Against Software Hype Arts
 
-
 <img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 500px; width: 100%; height: auto;">
 
 
@@ -8,11 +7,12 @@
 
 ![](assets/air-canada-chatbot.png)
 
+[article source](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
+
 In early 2024, Air Canada had to deal with a situation where their AI chatbot **gave a customer incorrect information about their  fare policy**. The chatbot told a customer they could apply for a discount retroactively after purchasing a full-price ticket, but this wasn't actually Air Canada's policy.
 
 When the customer tried to get the promised refund, Air Canada **initially refused and argued that they weren't responsible for what their chatbot said**. However, a Canadian tribunal ruled that Air Canada was indeed responsible for the information provided by their chatbot, treating it as an official representative of the company.
 
-[article source](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
 
 Air Canada fell for the hype of Chatbots being able to replace real customer service. And they are not the only ones. How can you, when you will be CTOs in your own right be able to avoid 
 

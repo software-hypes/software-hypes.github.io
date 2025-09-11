@@ -1,4 +1,4 @@
-# Defense Against Software Hype Arts
+
 
 <img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; width: 100%; height: auto; margin: 0 auto;display: block;">
 

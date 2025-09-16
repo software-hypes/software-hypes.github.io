@@ -5,6 +5,8 @@
 
 Instead of exposing an API your service should expose an chatbot-friendly interface to the functionalities that it provides. 
 
+## Ver
+
 ## In Print
 
 - April, 26, 25 - Forbes: [Why You Need To Know About The Model Context Protocol](https://www.forbes.com/sites/davidbirch/2025/04/26/why-you-need-to-know-about-the-model-context-protocol/)
@@ -14,7 +16,8 @@ Instead of exposing an API your service should expose an chatbot-friendly interf
 
 ## Video
 [![](assets/mcp-revolutionizes-ai.png)](https://www.youtube.com/watch?v=l93LrDpIJGY&t=6s&ab_channel=IBMTechnology)
-- the AI can see all the data it 
+- the AI can see all the data it needs, call the right functions
+- a customer says: i can't login, i just paid; the AI using MCP can lookup the customer's account, check billing
 
 ![](assets/mcp-is-changing-everything.png)
 

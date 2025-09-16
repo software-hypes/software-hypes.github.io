@@ -1,4 +1,4 @@
-# News
+# Gen AI for everything
 
 ## Sept 11
 

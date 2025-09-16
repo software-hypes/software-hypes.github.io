@@ -1,5 +1,5 @@
 
-# News
+# Blockchain for everything
 
 ![](assets/finland-blockchain-for-financial-services.png)
 [source](https://reliefweb.int/report/finland/how-finland-using-blockchain-revolutionise-financial-services-refugees)
@@ -9,7 +9,7 @@
 - note that the blockchain strategy has reduced paperwork!
 
 
-# Criticism
+# Related Reading
 
 2024 - [Bitcoin and Trust](https://mircealungu.com/essays/bitcoin-and-trust.html)
 

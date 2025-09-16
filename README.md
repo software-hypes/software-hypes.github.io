@@ -1,4 +1,6 @@
 
+# Lectures
+
 Lecture notes for Mircea's three week arc in the Advanced Software Engineering course at ITU.
 
 1. **[Hypes in Software Engineering](./1-hypes.md)**
@@ -6,11 +8,15 @@ Lecture notes for Mircea's three week arc in the Advanced Software Engineering c
 3. In Software Engineering... *It Depends*
 
 
-Ongoing
+# Hype Case Studies
+
+As I was preparing for this lecture series I realized that it's not easy to document past hypes. I'll add here info about hypes that are in progress. 
+
+## Ongoing
 - [GenAI for everything](cases/gen-ai-everything)
 - [MCP - Revolutionizes AI](cases/mcp)
 
-Past
+## Past
 - [Blockchain for everything](cases/blockchain)
 
 

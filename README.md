@@ -7,7 +7,6 @@ Lecture notes for Mircea's three week arc in the Advanced Software Engineering c
 2. **[Defense Against Software Hype Arts](./2-defense.md)**
 3. In Software Engineering... *It Depends*
 
-
 # Hype Case Studies
 
 As I was preparing for this lecture series I realized that it's not easy to document past hypes. I'll add here info about hypes that are in progress. 

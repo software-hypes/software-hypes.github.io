@@ -4,11 +4,13 @@
 ## The Hype
 
 
+
 ## In Print
 
 - Forbes: [# Why You Need To Know About The Model Context Protocol](https://www.forbes.com/sites/davidbirch/2025/04/26/why-you-need-to-know-about-the-model-context-protocol/)
 	- will accelerate the evolution of agentic commerce (a-commerce) - I guess a new buzzword in the making? 
-	- the whole arti
+	- the whole article is a whirlwind of buzzwords and unfounded claims
+
 
 ## Video
 [![](assets/mcp-revolutionizes-ai.png)](https://www.youtube.com/watch?v=l93LrDpIJGY&t=6s&ab_channel=IBMTechnology)

@@ -7,7 +7,7 @@
 ## In Print
 
 - Forbes: [# Why You Need To Know About The Model Context Protocol](https://www.forbes.com/sites/davidbirch/2025/04/26/why-you-need-to-know-about-the-model-context-protocol/)
-	- will accelerate the evolution of agentic commerce (a-commerce)
+	- will accelerate the evolution of agentic commerce (a-commerce) - I guess a new buzzword in the making? 
 	- 
 
 ## Video

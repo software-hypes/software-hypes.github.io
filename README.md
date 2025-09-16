@@ -8,7 +8,7 @@ Lecture notes for Mircea's three week arc in the Advanced Software Engineering c
 
 Ongoing
 - [GenAI for everything](cases/gen-ai-everything)
-- [MCP - Revolutionizes AI Agent Integration](cases/mcp)
+- [MCP - Revolutionizes AI](cases/mcp)
 
 Past
 - [Blockchain for everything](cases/blockchain)

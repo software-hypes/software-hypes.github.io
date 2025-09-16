@@ -1,16 +1,20 @@
 
 # Blockchain for everything
 
-## Finland Revolutionizes Financial Services for Refugees with the Blockchain
+## Revolutionizing Finance in Finland
 
 ![](assets/finland-blockchain-for-financial-services.png)
 [source](https://reliefweb.int/report/finland/how-finland-using-blockchain-revolutionise-financial-services-refugees)
+
+---
 
 ## Blockchain strategy is reducing paperwork in UAE :)
 
 ![](assets/Pasted%20image%2020250916072542.png)
 [source](https://bsvblockchain.org/6-countries-using-blockchain-right-now/)
 
+
+---
 
 # Related Reading
 

@@ -6,6 +6,9 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 - And strategy. Where you put your effort really makes a difference if your company stays in business. And this might not be only about technology... 
 
 
+The story of Map-Reduce where everybody run to copy Google, and in the meantime, Google had already moved on because they realized it did not work not even for them. 
+
+
 ## Examples of Software Engineering Hypes
 
 - 1990s - [**OOP**](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)  was going to revolutionize software engineering
@@ -18,7 +21,7 @@ The story with Elon Musk and Paypal from *Founders at Work*.
 Do you have other examples? 
 
 
-The story of Map-Reduce where everybody run to copy Google, and in the meantime, Google had already moved on because they realized it did not work not even for them. 
+
 
 ## Learning objectives
 

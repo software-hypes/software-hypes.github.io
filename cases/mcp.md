@@ -5,7 +5,7 @@
 
 Instead of exposing an API your service should expose an chatbot-friendly interface to the functionalities that it provides. 
 
-## Ver
+
 
 ## In Print
 
@@ -17,7 +17,7 @@ Instead of exposing an API your service should expose an chatbot-friendly interf
 ## Video
 [![](assets/mcp-revolutionizes-ai.png)](https://www.youtube.com/watch?v=l93LrDpIJGY&t=6s&ab_channel=IBMTechnology)
 - the AI can see all the data it needs, call the right functions
-- a customer says: i can't login, i just paid; the AI using MCP can lookup the customer's account, check billing
+- a customer says: i can't login, i just paid; the AI using MCP can lookup the customer's account, check billing, verify payment, and then say: "i've confirmed your payment and reactivated your account" :)
 
 ![](assets/mcp-is-changing-everything.png)
 

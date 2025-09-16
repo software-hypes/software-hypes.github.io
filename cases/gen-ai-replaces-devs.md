@@ -1,6 +1,8 @@
+# Promises
+
+
 
 TODO:
-- find the airline company that deployed ChatBots with their customer service and had to rollback 
 - the Forbes recent articles 
 
 https://x.com/nikos_kafritsas/status/1958195213127540897

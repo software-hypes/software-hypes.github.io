@@ -1,4 +1,4 @@
-[on gh](https://github.com/software-hypes/software-hypes.github.io/blob/main/1-hypes.md)
+<small><a href="https://github.com/software-hypes/software-hypes.github.io/blob/main/1-hypes.md">(source on GH)</a></small>
 # Introduction
 
 The story with Elon Musk and Paypal from *Founders at Work*.

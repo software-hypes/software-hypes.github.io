@@ -6,6 +6,7 @@
 [source](https://x.com/deredleritt3r/status/1966183667392196629)
 
 
+
 ## August, Forbes: [95% of the pilot projects using AI failing](https://x.com/nikos_kafritsas/status/1958195213127540897) 
 
 Hot take by [burkov](https://x.com/burkov/status/1958187627175166384): 

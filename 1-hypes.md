@@ -85,7 +85,7 @@ Reasons are:
 	- Developers like to learn new stuff => *resume-driven development* empirical study [3]
 	- Companies want to *look cool* because they need developers 
 	- Conference/blog echo chambers
-	- Journalists must exaggerate to get "clicks" and "views" -- 
+	- Journalists must exaggerate to get "clicks" and "views" 
 	- FOMO in competitive industries
 - **Psychology factors**
 	- Novelty bias

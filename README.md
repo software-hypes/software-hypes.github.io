@@ -18,4 +18,5 @@ As I was preparing for this lecture series I realized that it's not easy to docu
 # Historical
 - [Blockchain for everything](cases/blockchain)
 
-# Metaphor f
+# Metaphors for software hypes
+- [Night on Earth: NY](https://www.youtube.com/watch?v=bgi1qBgi5sA&t=4s), by Jim Jarmusch

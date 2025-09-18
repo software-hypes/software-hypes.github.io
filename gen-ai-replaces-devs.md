@@ -33,7 +33,7 @@ The positive thing about AI tooling going mainstream and setting expectations hi
 
 
 
-## Vibe coding as *roleplaying that you're a hacker* 
+## *roleplaying that you're a hacker* 
 
 ![](assets/we-are-back.png)
 

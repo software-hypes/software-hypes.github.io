@@ -80,7 +80,8 @@ What gives it away as a hype?
 - Moving goalposts (when criticized, “that’s not what we meant”)
 - Buzzword bingo (loading language with impressive but vague terms)
 - Broken analogies (prompting making code obsolete just as high level languages made machine code obsolete )
-- s
+- Strawman argument - agile vs. waterfall, microservices vs. monlith 
+
 
 
 ## Red flag checklist

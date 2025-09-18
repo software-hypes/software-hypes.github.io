@@ -83,7 +83,6 @@ What gives it away as a hype?
 - Strawman argument - agile vs. waterfall, microservices vs. monlith 
 
 
-
 ## Red flag checklist
 - No trade-offs mentioned
 - No failure cases discussed

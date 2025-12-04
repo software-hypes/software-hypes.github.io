@@ -1,12 +1,19 @@
 <small><a href="https://github.com/software-hypes/software-hypes.github.io/blob/main/2-defense.md">(source on GH)</a></small>
 
-<img src="assets/dadha-book-cover.png" alt="Alt text" style="max-width: 400px; height: auto; margin: 0 auto;display: block;">
+  <div align="center">
+    <img src="assets/dadha-book-cover.png" alt="book cover :)" width="500">
+  </div>
+
 
 # Defense Against Software Hype Arts
 
 ## Case Study: The Air Canada Chatbot
 
-![](assets/air-canada-chatbot.png)
+<a href="https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit">
+  <div align="center">
+    <img src="assets/air-canada-chatbot.png" alt="Screenshot of The Guardian article reporting on the case" width="500">
+  </div>
+</a>
 
 [article source](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
 

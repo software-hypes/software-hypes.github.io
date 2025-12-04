@@ -1,7 +1,7 @@
 <small><a href="https://github.com/software-hypes/software-hypes.github.io/blob/main/2-defense.md">(source on GH)</a></small>
 
   <div align="center">
-    <img src="assets/dadha-book-cover.png" alt="book cover :)" width="500">
+    <img src="assets/dadha-book-cover.png" alt="book cover :)" width="400">
   </div>
 
 
@@ -9,11 +9,11 @@
 
 ## Case Study: The Air Canada Chatbot
 
-<a href="https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit">
+
   <div align="center">
-    <img src="assets/air-canada-chatbot.png" alt="Screenshot of The Guardian article reporting on the case" width="500">
+    <img src="assets/air-canada-chatbot.png" alt="Screenshot of The Guardian article reporting on the case" width="600">
   </div>
-</a>
+
 
 [article source](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
 

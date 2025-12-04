@@ -2,7 +2,7 @@
 
 
 
-## Anthropic Researcher: "software engineering is done"
+## Nov 25: Anthropic Researcher: "software engineering is done by the first half of the next year"
 https://x.com/dmwlff/status/1993036664428806145 
 
 
